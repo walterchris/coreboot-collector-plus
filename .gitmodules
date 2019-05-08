@@ -1,0 +1,3 @@
+[submodule "coreboot-collector"]
+	path = coreboot-collector
+	url = git@github.com:system76/coreboot-collector.git
